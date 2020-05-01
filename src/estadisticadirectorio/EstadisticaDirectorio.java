@@ -13,6 +13,7 @@ import java.io.File;
  */
 
 // un nuevo comentario de prueba
+// otro comentario de prueba hipotéticamente añadido por otro compañero!
 public class EstadisticaDirectorio {
     /**
      * @param args the command line arguments
